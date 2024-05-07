@@ -27,7 +27,7 @@ class CalcTest {
 
     @AfterEach
     public void afterEach(){
-        System.out.println("after each ");
+        System.out.println(" after each");
     }
 
     @Test
